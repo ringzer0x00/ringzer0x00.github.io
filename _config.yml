@@ -1,0 +1,31 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            mp
+tagline:          'PhD student @ Università di Camerino'
+description:      ''
+url:              http://ringzer0x00.github.io/
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+plugins: 
+  - jekyll-paginate
+  - jekyll-gist
+ 
+paginate:            5
+paginate_path:       "page:num"
+
