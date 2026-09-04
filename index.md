@@ -5,8 +5,6 @@ image: me.jpg
 image_alt: Me
 ---
 
-# Mattia Paccamiccio
-
 Researcher specializing in static analysis, program verification, formal methods, programming languages, and cybersecurity. 
 Experienced in research, research-driven software development, and industrial security operations.
 
