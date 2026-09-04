@@ -2,7 +2,7 @@
 layout: home
 title: Mattia Paccamiccio
 image: me.jpg
-image_alt: Me
+image_alt: Me, side-view of Dr. Marcelletti, and oddly cut almost fellow villager.
 ---
 
 Researcher specializing in static analysis, program verification, formal methods, programming languages, and cybersecurity. 
