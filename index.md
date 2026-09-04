@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Mattia Paccamiccio
 image: me.jpg
 image_alt: Me
