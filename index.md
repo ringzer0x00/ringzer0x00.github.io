@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Mattia Paccamiccio
+image: me.jpg
+image_alt: Me
 ---
 
 # Mattia Paccamiccio
