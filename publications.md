@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-* (t) **M. Paccamiccio**. Static Analysis of WebAssembly Programs by Abstract Interpretation and Environment Specification. *PhD thesis*, [[no-doi-yet](#)], [[URL](diss.pdf)] [[bib](#)]
+* (t) **M. Paccamiccio**. Static Analysis of WebAssembly Programs by Abstract Interpretation and Environment Specification. *PhD thesis*, [[url](diss.pdf)]
 * (c) **M. Paccamiccio**, F. Raimondi, M. Loreti. Building Call Graph of WebAssembly Programs via Abstract Semantics. *ITASEC 2024: The Italian Conference on CyberSecurity*, [[url](https://ceur-ws.org/Vol-3731/paper30.pdf)]
 * (c) **M. Paccamiccio**, L. Mostarda. Reasoning about inter-procedural security requirements in IoT applications. *International Conference on Advanced Information Networking and Applications 2022*, [[doi](https://doi.org/10.1007/978-3-030-99619-2_24)]
 * (c) F. Al-Turjman, D. Cacciagrano, L. Mostarda, **M. Paccamiccio**, Zaib Ullah. Light Communication for Controlling Industrial Robots. 
